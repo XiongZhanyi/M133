@@ -26,15 +26,14 @@ Mittels f:setPropertyActionListener wird bei einem klick der Wert skinColor im H
 
 ![LA_133_9954_Pokemon](https://user-images.githubusercontent.com/94226346/187175103-4c568e33-24be-4ab0-859d-29c89f7756b0.jpg)
 
-
 ## Verifikation
 
-
+Durch die Erklärung und dem Code sieht man dass ich das Einbinden vom Bilder in einer Webapplikation verstehe.
 
 # Reflektion zum Arbeitsprozess
 
-👍 
+👍 Ich kam sehr schnell voran und hatte keine Mühe, da ich beim Imput von der Lehrperson gut aufgepasst habe.
 
-👎 
+👎 Da ich schon am realisieren der Aufgabe war, habe ich die Anleitung für die Erstellung des Lernbericht nur halb mitbekommen.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: ✍️ Ich werde nächstesmal erst mit dem realisieren beginnen, sobald der Lehrer mit der Erklärung fertig ist.
