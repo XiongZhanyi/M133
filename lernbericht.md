@@ -3,20 +3,22 @@ Modul 133 Webapplikationen mit JSF realisieren
 
 ## Einleitung
 
-Im Auftrag LA_133_9954_Pokemon durfte ich 
+Im Auftrag LA_133_9954_Pokemon durfte ich in Anlehnung an das Spiel Pokémon Go eine webbasierte Konfiguration des Avatars. Zur Übung der Techniken Navigation und Session erfolgt die Konfiguration über mehrere Seiten. Für die unterschiedlichen Konfigurationsmöglichkeiten steht Ihnen eine Auswahl an Bildern zur Verfügung. 
 
 ## Was habe ich gelernt?
 
-Gelernt habe ich wie ich Bilder in einer Webapplikation darstelle. 
+Gelernt habe ich wie ich Bilder in einer Webapplikation darstelle und dmait Benutzereingaben entgegenehmen kann.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
-
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+```
+<h:commandLink value="" action="EyeColor.xhtml">
+    <!-- Backing Bean handover user input -->
+    <f:setPropertyActionListener target="#{helloManagedBean.skinColor}" value="h"/>
+    <!-- library = \resources\img -->
+    <h:graphicImage library="img" name="h.png" width="200"/> 
+</h:commandLink>
+```
 
 ## Verifikation
 
