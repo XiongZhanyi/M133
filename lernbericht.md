@@ -11,6 +11,10 @@ Gelernt habe ich wie ich Bilder in einer Webapplikation darstelle und dmait Benu
 
 ## Beschreibung
 
+Mittels h:commandLink ermöglicht es dem Benutzer das Bild anzuklicken und mittels h:graphicImage, wird das Bild dargestellt. 
+Im h:commandLink steht library="img" da das Bild sich im Ordner ressources\img befindet, das Bild heisste name="h.png".
+Mittels f:setPropertyActionListener wird bei einem klick der Wert skinColor im HelloManagedBean auf h gesetzt.
+
 ```
 <h:commandLink value="" action="EyeColor.xhtml">
     <!-- Backing Bean handover user input -->
@@ -20,19 +24,17 @@ Gelernt habe ich wie ich Bilder in einer Webapplikation darstelle und dmait Benu
 </h:commandLink>
 ```
 
-Mittels h:commandLink ermöglicht es dem Benutzer das Bild anzuklicken und mittels h:graphicImage, wird das Bild dargestellt. 
-Im h:commandLink steht library="img" da das Bild sich im Ordner ressources\img befindet, das Bild heisste name="h.png".
-Mittels f:setPropertyActionListener wird bei einem klick der Wert skinColor im HelloManagedBean auf h gesetzt.
+![LA_133_9954_Pokemon](https://user-images.githubusercontent.com/94226346/187175103-4c568e33-24be-4ab0-859d-29c89f7756b0.jpg)
 
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍 
 
-👎 und etwas, was nicht gut lief.
+👎 
 
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
