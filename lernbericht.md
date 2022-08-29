@@ -20,6 +20,11 @@ Gelernt habe ich wie ich Bilder in einer Webapplikation darstelle und dmait Benu
 </h:commandLink>
 ```
 
+Mittels h:commandLink ermöglicht es dem Benutzer das Bild anzuklicken und mittels h:graphicImage, wird das Bild dargestellt. 
+Im h:commandLink steht library="img" da das Bild sich im Ordner ressources\img befindet, das Bild heisste name="h.png".
+Mittels f:setPropertyActionListener wird bei einem klick der Wert skinColor im HelloManagedBean auf h gesetzt.
+
+
 ## Verifikation
 
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
