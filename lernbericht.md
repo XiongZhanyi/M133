@@ -1,13 +1,13 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Modul 133 Webapplikationen mit JSF realisieren
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Im Auftrag LA_133_9954_Pokemon durfte ich 
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Gelernt habe ich wie ich Bilder in einer Webapplikation darstelle. 
 
 ## Beschreibung
 
